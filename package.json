@@ -1,0 +1,28 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "chatbot based on nodejs and python for chatgpt integration ver 0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3adb33/chatbot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "python",
+    "chatgpt"
+  ],
+  "author": "d3adb33",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3adb33/chatbot/issues"
+  },
+  "homepage": "https://github.com/d3adb33/chatbot#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
